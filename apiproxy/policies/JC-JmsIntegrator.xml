@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JavaCallout async="false" continueOnError="false" enabled="true" name="JC-JmsIntegrator">
+    <DisplayName>JC-JmsIntegrator</DisplayName>
+    <Properties/>
+    <ClassName>com.jms.activemq.JmsProducerIntegrator</ClassName>
+    <ResourceURL>java://JmsIntegrator.jar</ResourceURL>
+</JavaCallout>
